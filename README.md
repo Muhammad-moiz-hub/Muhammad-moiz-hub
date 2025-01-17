@@ -1,4 +1,4 @@
-## Hi 👋, I'm ..# Muhammad Moiz.
+## Hi 👋, I'm Muhammad Moiz
 
 <!--
 **Muhammad-moiz-hub/Muhammad-moiz-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
