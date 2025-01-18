@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi :wave:, I'm <a href="https://rizwanjamal.online" target="blank">
 Muhammad Moiz</a></h1>
+![github contribution grid snake animation](https://github.com/Muhammad-moiz-hub/Muhammad-moiz-hub/blob/output//github-contribution-grid-snake.svg)
 
 <!--
 **Muhammad-moiz-hub/Muhammad-moiz-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
