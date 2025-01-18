@@ -8,7 +8,7 @@ Muhammad Moiz</a></h1>
 
 ### ⭐ Powered by passion, creativity, and innovation ⭐
 
-[![My Banner](https://via.placeholder.com/1200x300.png?text=My+Awesome+Project+Banner)](https://github.com/username/project)
+
 
 
 <!--
