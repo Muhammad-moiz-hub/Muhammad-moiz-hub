@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi :wave:, I'm <a href="https://rizwanjamal.online" target="blank">
-Rizwan Jamal</a></h1>
+
 <h3 align="center">A Passionate Software Engineer with the experience of 8+ years from Pakistan 🇵🇰 </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 <a target="_blank" align="center">
