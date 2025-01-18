@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">A Passionate Software Engineer with the experience of 8+ years from Pakistan 🇵🇰 </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-<a target="_blank" align="center">
+
 <!--   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> -->
     <img align="right" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </a>
